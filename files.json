@@ -1,0 +1,451 @@
+{
+    "status": {
+        "code": 200,
+        "message": "Request completed fine, no errors"
+    },
+    "folder": [
+        {
+            "id": 179885707,
+            "name": "12.31.23",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": false,
+            "indexingDisabled": true,
+            "parentId": 179838737,
+            "createdOn": {
+                "milliseconds": 1711542465000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542465000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179838737,
+            "name": "2023",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "parentId": 179838727,
+            "createdOn": {
+                "milliseconds": 1711542417000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542417000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179905887,
+            "name": "2023",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "parentId": 179830977,
+            "createdOn": {
+                "milliseconds": 1711542257000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542257000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 97220777,
+            "name": "2023",
+            "orderNumber": 1,
+            "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "parentId": 97284027,
+            "createdOn": {
+                "milliseconds": 1672063814000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542199000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 1,
+            "isEmailin": false
+        },
+        {
+            "id": 179830987,
+            "name": "4Q'23",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": false,
+            "indexingDisabled": true,
+            "parentId": 179905907,
+            "createdOn": {
+                "milliseconds": 1711542345000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542345000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 97284037,
+            "name": "4Q'23",
+            "orderNumber": 1,
+            "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+            "hasChildFolders": false,
+            "indexingDisabled": true,
+            "parentId": 97220777,
+            "createdOn": {
+                "milliseconds": 1672063829000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542231000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 1,
+            "isEmailin": false
+        },
+        {
+            "id": 179905897,
+            "name": "4Q'23",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": false,
+            "indexingDisabled": true,
+            "parentId": 179905887,
+            "createdOn": {
+                "milliseconds": 1711542277000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542277000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 97220767,
+            "name": "ABC",
+            "orderNumber": 1,
+            "version": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "createdOn": {
+                "milliseconds": 1672063733000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1672063733000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179838727,
+            "name": "Financials",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "parentId": 179885697,
+            "createdOn": {
+                "milliseconds": 1711542403000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542403000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 97284027,
+            "name": "Financials",
+            "orderNumber": 1,
+            "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "parentId": 97220767,
+            "createdOn": {
+                "milliseconds": 1672063794000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1672063794000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179830977,
+            "name": "XYZ",
+            "orderNumber": 2,
+            "version": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "createdOn": {
+                "milliseconds": 1711542144000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542144000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179905907,
+            "name": "DOB",
+            "orderNumber": 3,
+            "version": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "createdOn": {
+                "milliseconds": 1711542326000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542326000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179885697,
+            "name": "CDA",
+            "orderNumber": 4,
+            "version": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+            "hasChildFolders": true,
+            "indexingDisabled": true,
+            "createdOn": {
+                "milliseconds": 1711542383000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711542383000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        },
+        {
+            "id": 179831017,
+            "name": "4Q'23",
+            "orderNumber": 5,
+            "version": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+            "hasChildFolders": false,
+            "indexingDisabled": true,
+            "createdOn": {
+                "milliseconds": 1711543226000
+            },
+            "createdBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare",
+                "organization": "wellsfargo.com",
+                "organizationSort": "wellsfargo.com"
+            },
+            "lastModifiedOn": {
+                "milliseconds": 1711543226000
+            },
+            "lastModifiedBy": {
+                "firstName": "Shripad.r.dongare",
+                "lastName": "Shripad.r.dongare",
+                "firstNameSort": "Shripad.r.dongare",
+                "lastNameSort": "Shripad.r.dongare"
+            },
+            "isFavorite": false,
+            "versionNumber": 0,
+            "isEmailin": false
+        }
+    ]
+}
